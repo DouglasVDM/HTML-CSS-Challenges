@@ -133,18 +133,21 @@ footer {
   background-color:#483C46;
   color:#BEEE62;
 }
-
+/* ## giraffe - paragraph 1 larger font size*/
 .paragraph1 {
   font-size: 150%;
 }
-
+/*font color change*/
 .giraffe h3 {
   color: #C39AF9;
 }
 
-
 .giraffe h2 {
   color: #F4743B;
+}
+/* ## news - center title*/
+.heading1 {
+  text-align: center;
 }
 
 .card {
@@ -152,7 +155,8 @@ footer {
   background-color: white;
   padding: 20px;
   margin: 10px;
-  width: 30%;
+  /*#5 News made 3 items fit in 1 line*/
+  width: 27.5%;
   border: 1px solid black;
   border-radius: 10px;
 }
